@@ -1,4 +1,4 @@
-   # Heya, I’m Håkon Kristian Birkelund aka @L0WC0ST-GR0VE here on GitHub.
+   # Heya, I’m Håkon Kristian Birkelund aka L0WC0ST-GR0VE here on GitHub.
 - age = 20
 - country = "Norway"
 - languages = ["English", "Norwegian"]
