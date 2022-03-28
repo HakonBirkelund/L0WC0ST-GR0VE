@@ -1,7 +1,7 @@
-   # Heya, I’m Håkon Kristian Birkelund aka L0WC0ST-GR0VE here on GitHub.
+   # Heya, I’m Håkon Kristian Birkelund.
 - age = 20
 - country = "Norway"
-- languages = ["English", "Norwegian"]
+- languages = ("English", "Norwegian")
 # I’m interested in:
 - Web Development
 - Programming
